@@ -1,33 +1,6 @@
-# Sample Markdown
+# 1. Andante tranquillo
 
-This is some basic, sample markdown.
+![](images/1.jpg)
 
-## Second Heading
+https://user-images.githubusercontent.com/123375081/214051773-b5a0718a-7cbb-49fe-a6db-e0f1e8c8a6ca.mov
 
- * Unordered lists, and:
-  1. One
-  1. Two
-  1. Three
- * More
-
-> Blockquote
-
-And **bold**, *italics*, and even *italics and later **bold***. Even ~~strikethrough~~. [A link](https://markdowntohtml.com) to somewhere.
-
-And code highlighting:
-
-```js
-var foo = 'bar';
-
-function baz(s) {
-   return foo + ':' + s;
-}
-```
-
-Or inline code like `var foo = 'bar';`.
-
-Or an image of bears
-
-![bears](http://placebear.com/200/200)
-
-The end ...
